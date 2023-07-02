@@ -25,7 +25,7 @@ This course has a variety of tools and resources through which we will help you 
 
 - Course github for SS1_23: [https://github.com/drsimpkins-teaching/COGS108](https://github.com/drsimpkins-teaching/COGS108)
 
-- Canvas: to support quizzes and class participation exercises [here](a)
+- Canvas: to support quizzes and class participation exercises [here](https://canvas.ucsd.edu/courses/47460)
 
 - Datahub for assignments: [https://datahub.ucsd.edu](https://datahub.ucsd.edu)
 

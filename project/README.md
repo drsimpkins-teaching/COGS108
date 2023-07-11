@@ -6,6 +6,7 @@
 * [Project Structure](#Project-Structure)
 * [Previous quarter examples](#Previous-quarter-examples)
 * [Description of project parts](#Description-of-project-parts)
+* [Ideas for open datasets](#Ideas-for-open-datasets)
 
 
 
@@ -94,7 +95,7 @@ Given summer session timing we have not done a great deal of review of data scie
 *   Submit notebook to github repo created for you at drsimpkins-teaching by Friday at 11:59pm
 
 
-**Ideas for open datasets:**
+### Ideas for open datasets
 
 *   [Amazon](https://aws.amazon.com/opendata/)
 *   [Google dataset search](https://datasetsearch.research.google.com)

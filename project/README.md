@@ -97,7 +97,7 @@ Given summer session timing we have not done a great deal of review of data scie
 
 ### Ideas for open datasets
 
-Here you will find several links to open datasets from a variety of sources. You can locate and use your own, and you can also use your own datasets, if they are stripped of personally identifiable information (PII) and you have the rights to use it.
+Here you will find several links to open datasets from a variety of sources. You can locate and use your own, and you can also use your own datasets, if they are stripped of personally identifiable information (PII) and you have the rights to use them.
 
 *   [Amazon](https://aws.amazon.com/opendata/)
 *   [Google dataset search](https://datasetsearch.research.google.com)

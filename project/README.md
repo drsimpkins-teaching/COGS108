@@ -18,6 +18,17 @@ The project will consist of multiple checkpoints to help you break down the task
 
 The pieces are as follows:
 
+| **Project component**                                                                                                | **Group/Indiv.** | **Submission type**        | **Due date**            |
+|----------------------------------------------------------------------------------------------------------------------|------------------|----------------------------|-------------------------|
+| Previous project review                                                                                              | Group            | Google form                | Friday 7/14 at 11:59pm  |
+| Project Proposal                                                                                                     | Group            | Jupyter notebook to github | Friday 7/14 at 11:59pm  |
+| Checkpoint 1: Data                                                                                                   | Group            | Jupyter notebook to github | Friday 7/21 at 11:59pm  |
+| Checkpoint 2: EDA                                                                                                    | Group            | Jupyter notebook to github | Friday 7/28 at 11:59pm  |
+| Final Report                                                                                                         | Group            | Jupyter notebook to github | Friday 8/4 at 11:59pm   |
+| Video presentation report summary (5-10min)                                                                          | Group            | github (method of choice)  | Friday 8/4 at 11:59pm   |
+| Group review                                                                                                         | Individual       | Google form                | Friday 8/4 at 11:59pm   |
+| Video reviews (depending on timing, either min 3 required or all extra credit, 0.5% each for up to 6% bonus overall) | Individual       | Google form                | Saturday 8/5 at 11:59pm |
+
 
 
 ### Previous quarter examples

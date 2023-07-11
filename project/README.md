@@ -1,14 +1,3 @@
-Table of Contents
-
-- [Introduction](Introduction)
-- [Group Formation](Group-formation)
-- [Group Size](Group-Size)
-- [Project Structure](Project-Structure)
-- [Project pieces](Project-pieces)
-- [Previous quarter examples](Previous-quarter-examples)
-- [Description of project parts](Description-of-project-parts)
-
-
 
 ### Introduction
 

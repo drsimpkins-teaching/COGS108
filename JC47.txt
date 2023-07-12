@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Testing Testing 123
+=======
+This file is for A1 part 1, part of making a pull request.
+>>>>>>> 6332170aa8a2d7309850810a9e38d115ea523197

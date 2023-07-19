@@ -95,6 +95,30 @@ Given summer session timing we have not done a great deal of review of data scie
 *   Submit notebook to github repo created for you at drsimpkins-teaching by Friday at 11:59pm
 
 
+#### _3\. Checkpoint 1: Data (Friday 7/21/23 at 11:59pm):_
+  
+For this checkpoint you should have located one or more datasets associated with your project, accessed it and performed the majority of or all of your data wrangling and cleaning in order to get it into a usable form for your analysis. You will write up a short description of the data, where it comes from and what it represents, how it is structured and you will include your code, well commented.
+
+This is not where you will have performed much analysis necessarily, though you should have done some basic visualization or otherwise show that the data is going to be useful for your question/hypothesis. You may at this time decide you need more data, different data or otherwise. To complete the checkpoint you should have a good idea where, if you need more data, you can get it – perhaps you have it but have not completed the secondary cleaning and wrangling, but have the framework from the first dataset.  
+
+The main idea is – get your data, get it wrangled so you can operate on it, take a quick look at it. Plots are not required and certainly no significant analysis. But try to have a sense of if this is the dataset you will be sticking with or if you need more data, you should have put significant work into getting it even if it is too late to fully incorporate it into your checkpoint.  
+
+Data description requirements: it is structured (or you can make it structured), what it contains, and any characteristics needed for your data science project
+
+*   Data description including what the data is, how it supports answering your question, motivation as to why this is the dataset you will be using
+*   Data wrangling and code showing you have gotten the data into python/jupyter and have it in a usable/accessible form – you have removed missing values, NaNs, it is rectangular etc  
+    
+*   Next steps – a brief statement of what you plan to do next to perform EDA on the data, but you do not have to have actually done this yet  
+    
+
+**Requirements:**
+
+*   Fill out the project checkpoint included in github repository on the main page for the course in the project directory ([DataCheckpoint\_groupXXX.ipynb](https://raw.githubusercontent.com/drsimpkins-teaching/COGS108/main/project/DataCheckpoint_groupXXX.ipynb))
+*   Turned in to your group github repo by the deadline
+*   Data wrangled/cleaned with commented code and description of steps
+*   Data description filled in as described above
+*   Some descriptive representation of the data - pre-visualization, demonstrate the data is input and processed, ready for use
+
 ### Ideas for open datasets
 
 Here you will find several links to open datasets from a variety of sources. You can locate and use your own, and you can also use your own datasets, if they are stripped of personally identifiable information (PII) and you have the rights to use them.

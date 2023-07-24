@@ -119,6 +119,19 @@ Data description requirements: it is structured (or you can make it structured),
 *   Data description filled in as described above
 *   Some descriptive representation of the data - pre-visualization, demonstrate the data is input and processed, ready for use
 
+#### _4\. Checkpoint 2: EDA (Friday 7/28/23 at 11:59pm):_
+
+For this checkpoint the goal is to, now that you have your data, work towards the goal of rejecting or failing to reject the null and gaining insight about your data science question. So explore the basic statistics of your data - central tendency and variability. If it has a normal distribution you can use standard statistics, and otherwise you can explore with nonparametric statistics. Then given those insights perform various visualizations, generate tables or other ways to 'look at' the data. Finally, as you probably have an idea of what type of modeling you would like to do, execute at least a good portion of the modeling - regression, curve fits, if you are doing machine learning try to get as far as possible on this. It is understood you may be expanding this for the final report, as that is why we call it 'exploratory' instead of'super final done from every angle' or similar. Keep in mind the more you explore your data, the better the picture you will get in your head as to the final statements you can make about it.
+
+Overall consider this a first rough draft of the report, with potentially missing sections such as the conclusion and results section might be not fully written. You want to explore as far as possible and have a good idea of the last bits of modeling you want to do in order to make a statement and support it regarding your question and hypothesis.
+
+**Requirements:**
+
+*   Fill out the project checkpoint included in github repository on the main page for the course in the project directory ([EDACheckpoint\_groupXXX.ipynb](https://raw.githubusercontent.com/drsimpkins-teaching/COGS108/main/project/EDACheckpoint_groupXXX.ipynb))
+*   Turned in to your group github repo by the deadline
+*   Data should be explored through basic descriptive statistics, visualizations, hypothesis testing (inferential analysis)
+*   You should have completed basic modeling of the data. The above analysis will give insight as to where to take the data, and it's possible that it might take you in an unplanned direction that is not complete by the checkpoint. That's ok, but you should do as much modeling as is reasonable given the timing.
+
 ### Ideas for open datasets
 
 Here you will find several links to open datasets from a variety of sources. You can locate and use your own, and you can also use your own datasets, if they are stripped of personally identifiable information (PII) and you have the rights to use them.

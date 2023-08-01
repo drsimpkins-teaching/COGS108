@@ -132,6 +132,17 @@ Overall consider this a first rough draft of the report, with potentially missin
 *   Data should be explored through basic descriptive statistics, visualizations, hypothesis testing (inferential analysis)
 *   You should have completed basic modeling of the data. The above analysis will give insight as to where to take the data, and it's possible that it might take you in an unplanned direction that is not complete by the checkpoint. That's ok, but you should do as much modeling as is reasonable given the timing.
 
+  
+#### _5\. Final report (Friday 8/4/23 at 11:59pm):_
+
+For now please reference the final project template. Essentially you will go from the EDA to the final modeling (if modeling), write your results and conclusion section, and refine the EDA checkpoint level of your draft. Correct spelling, grammar, and clean up the code, include comments as well. 
+
+**Requirements:**
+
+*  Fill out the project file FinalReport template included in the github repository on the main page of the course in the project directory ([FinalProject_groupXXX.ipynb](https://raw.githubusercontent.com/drsimpkins-teaching/COGS108/main/project/FinalProject_groupXXX.ipynb) - raw file)
+*  Turned in to your group github repo by the deadline
+*  You should have taken the EDA material and expanded through your final analysis and modeling, drawn a conclusion and refined your earlier checkpoints to include all the sections in the report template
+
 ### Ideas for open datasets
 
 Here you will find several links to open datasets from a variety of sources. You can locate and use your own, and you can also use your own datasets, if they are stripped of personally identifiable information (PII) and you have the rights to use them.
